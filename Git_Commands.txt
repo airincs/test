@@ -1,0 +1,8 @@
+git add .
+git commit -m "Text goes here"
+git push origin main
+
+Use 'git status' a lot to check
+cd -> changes directory
+ls -> lists folders
+cd .. -> backs up one level
